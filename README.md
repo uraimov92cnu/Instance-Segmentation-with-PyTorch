@@ -9,3 +9,4 @@ The class of algorithms that produce the above mask are called Instance Segmenta
 
 - In semantic segmentation, every pixel is assigned a class label, while in instance segmentation, that is not the case.
 We do not tell the instances of the same class apart in semantic segmentation. For example, all pixels belonging to the “person” class in semantic segmentation will be assigned the same color/value in the mask. In instance segmentation, they are assigned different values, and we can tell them which pixels correspond to which person. We can see this in the above image.
+![]()
